@@ -39,9 +39,9 @@ h2 {
 .dog1 {
     width:auto;
     transform: rotate(25deg);
-    padding-left: 3%;
+    padding-left: 10%;
     position: absolute;
-    right: 28%;
+    right: 20%;
 }
 
 .tindog {
