@@ -1,0 +1,164 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+    background-color:#ff4c68 ;
+    padding-left: 18%;
+    padding-right: 18%;
+    padding-bottom: 3%;
+    
+}
+
+.container-fluid {
+    padding-top: 7%;
+   padding-left: 20%;
+   padding-bottom: 3%;
+   /* padding-right: 20%;*/
+}
+
+.h11{
+    padding-top: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    color: white;
+    line-height: 1.5;
+}
+.navbar {
+    padding-bottom: 4.5rem !important;
+}
+h1 {
+    padding-bottom: 40px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+}
+
+.dog1 {
+    width:auto;
+    transform: rotate(25deg);
+    padding-left: 3%;
+    position: absolute;
+    right: 28%;
+}
+
+.tindog {
+    font-family: 'Ubuntu';
+    font-size: 2.5rem !important;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 20px !important;
+    font-size: 1.5rem !important;
+    font-weight: 400;
+} 
+
+.down {
+    margin: 5% 3% 5% 0;
+}
+#features {
+    padding: 6% 15%;
+    background-color: white;
+    
+    position: relative !important;
+   
+}
+.featchure-box{
+    text-align: center;
+    padding: 5%;
+}
+h3 {
+    padding-top: 3%;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2rem;
+    
+}
+p {
+    font-weight: 500;
+}
+.icon {
+    color: #ef8172;
+
+} 
+.icon:hover {
+    color: #ff4c68;
+}
+
+#testimonials {
+    
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+.dog2 {
+    border-radius: 100%;
+    width: 18%;
+    margin-top: 10px;
+}
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 6%;
+
+}
+.templates {
+    width: 10%;
+    margin-left: 50px;
+    margin-right: 50px ;
+}
+.carousel-item {
+    padding: 7% 15%;
+}
+#pricing {
+    padding: 7% 10%;
+    text-align: center;
+}
+.pricing-collom {
+    padding: 3% 2%;
+}
+
+@media (max-width: 1300px){
+    #title {
+        text-align: center;
+    }
+    .dog1 {
+        
+        position: static;
+        transform: rotate(0);
+    }
+}
+.bot {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+#footer {
+    text-align: center;
+    padding: 5% 15%;
+}
+
+
+#cta {
+    background-color:#ff4c68 ;
+    padding: 5% 15%; 
+    text-align: center;
+    color: white;
+    font-size: 5rem;
+
+}
+.foo {
+    padding: 20px 10px;
+}
+.li {
+    color: rgb(19, 18, 18);
+}
+.li:hover {
+    color: gray;
+}
+
+.btn {
+    pa
+}
